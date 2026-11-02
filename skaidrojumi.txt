@@ -1,0 +1,6 @@
+J1 
+ja skripts izvada pareii bet ne to ko vajag, es no sākuma pārbaudišu filtrus n kārtību, 
+varbūt viņi ir uzrakstīti nepareizā secībā, vai nu filts ir nepareiz un viņi nepareizi sakārtoja.
+
+J2
+Pirmkārt, jāsaglabā fails kā UTF-8 kodējumu, otrkārt, kolonnas var salitp kopa un viņas skriptā ir jasadala ar ";" vai ","
